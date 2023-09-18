@@ -1,4 +1,5 @@
 from lwe import ApiBackend
+#It appears that livewhisper and lwe are custom or specific libraries that might have been developed for a particular project. If i am not wrong we need these libraries to be part of this repo.
 from livewhisper import StreamHandler
 import os
 bot = ApiBackend()
